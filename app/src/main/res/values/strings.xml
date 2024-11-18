@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_height">Change Height</string>
+    <string name="center_text">Center Text</string>
+</resources>
